@@ -1,0 +1,14 @@
+[user]
+    name = Alexander Pyatkin
+    email = (none)
+[color]
+    ui = auto
+[push]
+	default = simple
+[core]
+    autocrlf = input
+[pull]
+    rebase = true
+[alias]
+    st = status -sb
+    lg = log --oneline --decorate --all --graph

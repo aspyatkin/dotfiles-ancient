@@ -5,6 +5,7 @@
     '~/.zshrc': 'zshrc'
     '~/.tmux.conf': 'tmux.conf'
     '~/.bowerrc': 'bowerrc'
+    '~/.gitconfig': 'gitconfig'
 
 - shell:
     - ['git submodule update --init --recursive', 'Installing submodules']
