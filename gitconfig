@@ -13,3 +13,4 @@
     st = status -sb
     lg = log --oneline --decorate --all --graph
     co = checkout
+    cm = commit --message
