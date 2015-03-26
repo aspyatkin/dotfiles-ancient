@@ -15,3 +15,8 @@
     lg = log --oneline --decorate --all --graph
     co = checkout
     cm = commit
+[merge]
+	tool = vimdiff
+	conflictstyle = diff3
+[mergetool]
+	prompt = false
