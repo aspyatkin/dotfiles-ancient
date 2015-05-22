@@ -6,6 +6,8 @@
     '~/.tmux.conf': 'tmux.conf'
     '~/.bowerrc': 'bowerrc'
     '~/.gitconfig': 'gitconfig'
+    '~/.vimrc': 'vimrc'
+    '~/.vim': 'vim'
 
 - shell:
     - ['git submodule update --init --recursive', 'Installing submodules']
