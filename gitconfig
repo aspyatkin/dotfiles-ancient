@@ -15,6 +15,7 @@
     lg = log --oneline --decorate --all --graph
     co = checkout
     cm = commit
+    br = branch
 [merge]
 	tool = vimdiff
 	conflictstyle = diff3
