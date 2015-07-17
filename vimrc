@@ -91,5 +91,6 @@ endif
 " SYNTAX HIGHLIGHTING:
 set t_Co=256
 syntax on
-colorscheme ir_black
+set background=dark
+colorscheme base16-tomorrow
 set bs=2
