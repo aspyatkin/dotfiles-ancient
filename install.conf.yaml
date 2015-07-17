@@ -10,6 +10,7 @@
     '~/.vim': 'vim'
     '~/.oh-my-zsh/custom/async.zsh': 'pure/async.zsh'
     '~/.oh-my-zsh/custom/pure.zsh-theme': 'pure/pure.zsh'
+    '~/.oh-my-zsh/custom/blank.zsh-theme': 'blank.zsh-theme'
 
 - shell:
     - ['git submodule update --init --recursive', 'Installing submodules']
