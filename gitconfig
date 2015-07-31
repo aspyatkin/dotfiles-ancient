@@ -17,6 +17,7 @@
     co = checkout
     cm = commit
     br = branch
+    dc = diff --cached
 [merge]
 	tool = vimdiff
 	conflictstyle = diff3
