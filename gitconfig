@@ -18,6 +18,7 @@
     cm = commit
     br = branch
     dc = diff --cached
+    aa = add --all
 [merge]
 	tool = vimdiff
 	conflictstyle = diff3
