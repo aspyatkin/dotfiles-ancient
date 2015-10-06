@@ -7,6 +7,3 @@
 [submodule "blank"]
 	path = blank
 	url = https://github.com/aspyatkin/blank.git
-[submodule "Vundle.vim"]
-	path = Vundle.vim
-	url = https://github.com/VundleVim/Vundle.vim.git
