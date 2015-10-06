@@ -10,7 +10,6 @@
     '~/.vim': 'vim'
     '~/.oh-my-zsh/custom/blank.zsh-theme': 'blank/blank.zsh-theme'
     '~/.minttyrc': 'minttyrc'
-    '~/.vim/bundle/Vundle.vim': 'Vundle.vim'
 
 - shell:
     - ['git submodule update --init --recursive', 'Installing submodules']
