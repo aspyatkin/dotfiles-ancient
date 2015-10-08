@@ -67,5 +67,5 @@ endif
 set t_Co=256
 syntax on
 set background=dark
-colorscheme base16-tomorrow
+colorscheme base16-chalk
 set bs=2
