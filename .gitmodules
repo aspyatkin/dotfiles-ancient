@@ -1,9 +1,9 @@
 [submodule "dotbot"]
 	path = dotbot
-	url = https://github.com/anishathalye/dotbot
+	url = https://github.com/anishathalye/dotbot.git
 [submodule "oh-my-zsh"]
 	path = oh-my-zsh
-	url = https://github.com/robbyrussell/oh-my-zsh
+	url = https://github.com/robbyrussell/oh-my-zsh.git
 [submodule "blank"]
 	path = blank
-	url = git@github.com:aspyatkin/blank.git
+	url = https://github.com/aspyatkin/blank.git
