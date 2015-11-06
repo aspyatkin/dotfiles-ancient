@@ -6,4 +6,4 @@
 	url = https://github.com/robbyrussell/oh-my-zsh
 [submodule "blank"]
 	path = blank
-	url = https://github.com/aspyatkin/blank.git
+	url = git@github.com:aspyatkin/blank.git
