@@ -4,7 +4,7 @@
 [color]
     ui = auto
 [push]
-	default = simple
+    default = simple
 [core]
     autocrlf = input
     editor = vim
@@ -19,8 +19,9 @@
     br = branch
     dc = diff --cached
     aa = add --all
+    psh = push
 [merge]
-	tool = vimdiff
-	conflictstyle = diff3
+    tool = vimdiff
+    conflictstyle = diff3
 [mergetool]
-	prompt = false
+    prompt = false
