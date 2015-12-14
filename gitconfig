@@ -20,6 +20,7 @@
     dc = diff --cached
     aa = add --all
     psh = push
+    ptg = push --tags
 [merge]
     tool = vimdiff
     conflictstyle = diff3
