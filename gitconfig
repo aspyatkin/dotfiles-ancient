@@ -18,9 +18,11 @@
     cm = commit
     br = branch
     dc = diff --cached
+    a = add
     aa = add --all
-    psh = push
-    ptg = push --tags
+    p = push
+    pt = push --tags
+    t = tag
 [merge]
     tool = vimdiff
     conflictstyle = diff3
