@@ -1,6 +1,6 @@
 [user]
     name = Alexander Pyatkin
-    email = (none)
+    useconfigonly = true
 [color]
     ui = auto
 [push]
