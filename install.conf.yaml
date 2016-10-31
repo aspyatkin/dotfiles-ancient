@@ -17,3 +17,4 @@
 
 - link:
     '~/.oh-my-zsh/custom/blank.zsh-theme': 'blank/blank.zsh-theme'
+    '~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting': 'zsh-syntax-highlighting'
