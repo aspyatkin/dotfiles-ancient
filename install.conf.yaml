@@ -9,6 +9,7 @@
     '~/.vimrc': 'vimrc'
     '~/.vim': 'vim'
     '~/.minttyrc': 'minttyrc'
+    '~/.mintty': 'mintty'
 
 - shell:
     - ['git submodule update --init --recursive', 'Installing submodules']
