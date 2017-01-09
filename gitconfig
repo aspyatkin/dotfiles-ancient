@@ -9,6 +9,7 @@
     autocrlf = input
     editor = vim
     trustctime = false
+    filemode = true
 [pull]
     rebase = true
 [alias]
