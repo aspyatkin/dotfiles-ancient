@@ -9,3 +9,4 @@ FontSmoothing=full
 ThemeFile=snazzy
 ScrollbackLines=99999
 Term=xterm-256color
+BellType=0
